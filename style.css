@@ -27,8 +27,15 @@ nav {
   justify-content: space-between;
   flex-wrap: wrap;
 }
+.logo-class {
+  padding-top: 20px;
+  justify-content: space-evenly;
+}
 .logo {
   width: 200px;
+}
+.logoI {
+  height: 100px;
 }
 nav ul li {
   display: inline-block;
